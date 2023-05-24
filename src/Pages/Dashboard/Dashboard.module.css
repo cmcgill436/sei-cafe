@@ -1,0 +1,9 @@
+.Dashboard {
+  border-radius: 2vmin;
+  color: var(--white);
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
